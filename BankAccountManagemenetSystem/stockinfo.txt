@@ -1,0 +1,5 @@
+GOOG  5
+DELL  8
+BA  10
+EMC  10
+FRE  20
