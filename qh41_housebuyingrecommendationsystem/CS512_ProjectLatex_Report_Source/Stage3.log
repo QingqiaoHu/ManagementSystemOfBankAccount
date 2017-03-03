@@ -1,0 +1,1055 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  25 APR 2016 15:31
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Stage3.tex
+(./Stage3.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 }
+      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 43--43
+[]
+ []
+
+
+Overfull \hbox (17.22224pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 The
+ []
+
+
+Overfull \hbox (17.80559pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 pro-
+ []
+
+
+Overfull \hbox (25.58339pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 gram-
+ []
+
+
+Overfull \hbox (21.66673pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ming
+ []
+
+
+Overfull \hbox (16.6667pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 lan-
+ []
+
+
+Overfull \hbox (25.00006pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 guage
+ []
+
+
+Overfull \hbox (11.38889pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 we
+ []
+
+
+Overfull \hbox (13.94446pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 use
+ []
+
+
+Overfull \hbox (11.97226pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 for
+ []
+
+
+Overfull \hbox (16.1667pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 this
+ []
+
+
+Overfull \hbox (30.86116pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 project
+ []
+
+
+Overfull \hbox (6.72223pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 is
+ []
+
+
+Overfull \hbox (32.08344pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Python
+ []
+
+
+Overfull \hbox (15.5556pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 2.7,
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (17.80559pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 pro-
+ []
+
+
+Overfull \hbox (25.58339pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 gram-
+ []
+
+
+Overfull \hbox (21.66673pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ming
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 en-
+ []
+
+
+Overfull \hbox (11.38892pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 vi-
+ []
+
+
+Overfull \hbox (17.80559pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ron-
+ []
+
+
+Overfull \hbox (21.94449pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ment
+ []
+
+
+Overfull \hbox (6.72223pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 is
+ []
+
+
+Overfull \hbox (21.94449pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Win-
+ []
+
+
+Overfull \hbox (21.44447pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 dows
+ []
+
+
+Overfull \hbox (13.33336pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 64-
+ []
+
+
+Overfull \hbox (15.00005pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 bit.
+ []
+
+
+Overfull \hbox (17.22224pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 The
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 de-
+ []
+
+
+Overfull \hbox (14.1667pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 liv-
+ []
+
+
+Overfull \hbox (11.69444pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 er-
+ []
+
+
+Overfull \hbox (21.72226pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ables
+ []
+
+
+Overfull \hbox (11.97226pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 for
+ []
+
+
+Overfull \hbox (16.1667pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 this
+ []
+
+
+Overfull \hbox (22.27782pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 stage
+ []
+
+
+Overfull \hbox (11.66669pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (22.77782pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 clude
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (14.1667pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 fol-
+ []
+
+
+Overfull \hbox (18.05557pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 low-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (26.16672pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 items: 
+ []
+
+
+Overfull \hbox (31.66675pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Sample
+ []
+
+
+Overfull \hbox (22.83339pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 small
+ []
+
+
+Overfull \hbox (19.4445pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 data
+ []
+
+
+Overfull \hbox (21.1667pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 snip-
+ []
+
+
+Overfull \hbox (16.94449pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 pet. 
+ []
+
+
+Overfull \hbox (31.66675pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Sample
+ []
+
+
+Overfull \hbox (22.83339pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 small
+ []
+
+
+Overfull \hbox (17.77782pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 out-
+ []
+
+
+Overfull \hbox (15.00005pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 put 
+ []
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 }
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+<argument> ...figure} \centering \includegraphics 
+                                                  [width=0.4\textwidth ]{dat...
+l.43 }
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.43 }
+      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.43 }
+      
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 }
+      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{itemize} on input line 43 ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 }
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (21.25005pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Flow
+ []
+
+
+Overfull \hbox (13.75002pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Di-
+ []
+
+
+Overfull \hbox (8.33334pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 a-
+ []
+
+
+Overfull \hbox (25.02785pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 gram:
+ []
+
+
+Overfull \hbox (19.86115pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Dat-
+ []
+
+
+Overfull \hbox (31.4167pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 acrawl-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (130.86145pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 [width=0.4]datacrawling1.png 
+ []
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 }
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+<argument> ...figure} \centering \includegraphics 
+                                                  [width=0.4\textwidth ]{dat...
+l.43 }
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.43 }
+      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.43 }
+      
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 }
+      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{itemize} on input line 43 ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 }
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (21.25005pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Flow
+ []
+
+
+Overfull \hbox (13.75002pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Di-
+ []
+
+
+Overfull \hbox (8.33334pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 a-
+ []
+
+
+Overfull \hbox (25.02785pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 gram:
+ []
+
+
+Overfull \hbox (19.86115pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Dat-
+ []
+
+
+Overfull \hbox (31.4167pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 acrawl-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (130.86145pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 [width=0.4]datacrawling2.png 
+ []
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 }
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+<argument> ...figure} \centering \includegraphics 
+                                                  [width=0.4\textwidth ]{dat...
+l.43 }
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.43 }
+      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.43 }
+      
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 }
+      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{itemize} on input line 43 ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 }
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (21.25005pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Flow
+ []
+
+
+Overfull \hbox (13.75002pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Di-
+ []
+
+
+Overfull \hbox (8.33334pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 a-
+ []
+
+
+Overfull \hbox (25.02785pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 gram:
+ []
+
+
+Overfull \hbox (19.86115pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Dat-
+ []
+
+
+Overfull \hbox (31.4167pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 acrawl-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (130.86145pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 [width=0.4]datacrawling4.png 
+ []
+
+
+Overfull \hbox (25.41672pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Demo
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (20.61115pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 sam-
+ []
+
+
+Overfull \hbox (12.7778pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ple
+ []
+
+
+Overfull \hbox (20.00005pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 find-
+ []
+
+
+Overfull \hbox (17.27782pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ings 
+ []
+
+
+Overfull \hbox (21.52783pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Data
+ []
+
+
+Overfull \hbox (18.3889pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 size:
+ []
+
+
+Overfull \hbox (9.16669pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 In
+ []
+
+
+Overfull \hbox (24.52782pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 terms
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (24.02782pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 RAM
+ []
+
+
+Overfull \hbox (18.3889pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 size;
+ []
+
+
+Overfull \hbox (19.63893pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Disk
+ []
+
+
+Overfull \hbox (19.08333pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Res-
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 i-
+ []
+
+
+Overfull \hbox (26.66672pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 dent?;
+ []
+
+
+Overfull \hbox (34.47229pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Stream-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (7.50002pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ?; 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 }
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (16.86115pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 List
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (21.16672pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 most
+ []
+
+
+Overfull \hbox (11.66669pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (15.58334pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ter-
+ []
+
+
+Overfull \hbox (22.83337pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 estng
+ []
+
+
+Overfull \hbox (20.00005pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 find-
+ []
+
+
+Overfull \hbox (17.27782pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ings
+ []
+
+
+Overfull \hbox (8.33336pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 in
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (19.4445pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 data
+ []
+
+
+Overfull \hbox (5.83336pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 if
+ []
+
+
+Overfull \hbox (6.66669pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 it
+ []
+
+
+Overfull \hbox (6.72223pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 is
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (21.52783pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Data
+ []
+
+
+Overfull \hbox (15.4167pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Ex-
+ []
+
+
+Overfull \hbox (16.6667pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 plo-
+ []
+
+
+Overfull \hbox (26.13896pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ration
+ []
+
+
+Overfull \hbox (34.88895pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Project.
+ []
+
+
+Overfull \hbox (14.61115pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 For
+ []
+
+
+Overfull \hbox (22.8056pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 other
+ []
+
+
+Overfull \hbox (30.86116pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 project
+ []
+
+
+Overfull \hbox (23.11116pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 types
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 con-
+ []
+
+
+Overfull \hbox (16.1667pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 sult
+ []
+
+
+Overfull \hbox (19.44449pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 with
+ []
+
+
+Overfull \hbox (19.47227pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 your
+ []
+
+
+Overfull \hbox (30.86116pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 project
+ []
+
+
+Overfull \hbox (12.83334pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 su-
+ []
+
+
+Overfull \hbox (17.5278pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 per-
+ []
+
+
+Overfull \hbox (11.38892pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 vi-
+ []
+
+
+Overfull \hbox (12.86113pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 sor
+ []
+
+
+Overfull \hbox (21.66672pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 what
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (16.69446pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 cor-
+ []
+
+
+Overfull \hbox (11.69444pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 re-
+ []
+
+
+Overfull \hbox (29.22229pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 spond-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (17.77782pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 out-
+ []
+
+
+Overfull \hbox (26.1667pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 comes
+ []
+
+
+Overfull \hbox (20.0556pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 shall
+ []
+
+
+Overfull \hbox (13.05559pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 be.
+ []
+
+
+Overfull \hbox (21.11115pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Con-
+ []
+
+
+Overfull \hbox (17.77779pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 cen-
+ []
+
+
+Overfull \hbox (21.13893pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 trate
+ []
+
+
+Overfull \hbox (10.55559pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 on
+ []
+
+
+Overfull \hbox (32.22229pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 demon-
+ []
+
+
+Overfull \hbox (23.97226pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 strat-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (19.22223pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Use-
+ []
+
+
+Overfull \hbox (11.94447pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 fu-
+ []
+
+
+Overfull \hbox (17.8889pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ness
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (20.83337pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 Nov-
+ []
+
+
+Overfull \hbox (16.11115pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 elty
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (19.47227pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 your
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ap-
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 pli-
+ []
+
+
+Overfull \hbox (12.77779pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 ca-
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 43--43
+\OT1/cmr/m/n/10 tion. 
+ []
+
+)
+! Emergency stop.
+<*> Stage3.tex
+              
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 15 strings out of 493089
+ 211 string characters out of 6134842
+ 56199 words of memory out of 5000000
+ 3598 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 16i,4n,15p,382b,224s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

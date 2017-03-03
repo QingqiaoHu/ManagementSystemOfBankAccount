@@ -1,0 +1,132 @@
+\documentclass[10pt,conference]{IEEEtran}
+
+\ifCLASSINFOpdf
+	\usepackage[pdftex]{graphicx}
+	%\graphicspath{{./figs/}}
+	\DeclareGraphicsExtensions{.pdf,.jpeg,.png}
+\else
+	\usepackage[dvips]{graphicx}
+	%\graphicspath{{./figs/}}
+	\DeclareGraphicsExtensions{.eps}
+\fi
+
+\usepackage[cmex10]{amsmath}
+\usepackage[tight,footnotesize]{subfigure}
+\usepackage{xcolor}
+\usepackage[lined,ruled]{algorithm2e}
+
+\usepackage[latin1]{inputenc}
+\usepackage{tikz}
+\usetikzlibrary{shapes}
+\usetikzlibrary{arrows}
+
+\usepackage[]{algorithm2e}
+
+\newtheorem{property}{Property}
+\newtheorem{proposition}{Proposition}
+\newtheorem{theorem}{Theorem}
+\newtheorem{conjecture}{Conjecture}
+\newtheorem{question}{Question}
+\newtheorem{definition}{Definition}
+\newtheorem{corollary}{Corollary}
+
+\makeatletter
+\pgfdeclareshape{datastore}{
+\inheritsavedanchors[from=rectangle]
+\inheritanchorborder[from=rectangle]
+\inheritanchor[from=rectangle]{center}
+\inheritanchor[from=rectangle]{base}
+\inheritanchor[from=rectangle]{north}
+\inheritanchor[from=rectangle]{north east}
+\inheritanchor[from=rectangle]{east}
+\inheritanchor[from=rectangle]{south east}
+\inheritanchor[from=rectangle]{south}
+\inheritanchor[from=rectangle]{south west}
+\inheritanchor[from=rectangle]{west}
+\inheritanchor[from=rectangle]{north west}
+\backgroundpath{
+    %  store lower right in xa/ya and upper right in xb/yb
+\southwest \pgf@xa=\pgf@x \pgf@ya=\pgf@y
+\northeast \pgf@xb=\pgf@x \pgf@yb=\pgf@y
+\pgfpathmoveto{\pgfpoint{\pgf@xa}{\pgf@ya}}
+\pgfpathlineto{\pgfpoint{\pgf@xb}{\pgf@ya}}
+\pgfpathmoveto{\pgfpoint{\pgf@xa}{\pgf@yb}}
+\pgfpathlineto{\pgfpoint{\pgf@xb}{\pgf@yb}}
+ }
+}
+\makeatother
+
+\newcommand{\riham}[1]{{\color{red}{#1}}}
+\newcommand{\james}[1]{{\color{blue}{#1}}}
+
+
+\begin{document}
+
+\title{CS512 FUN Projects - Spring 2016}
+\author{
+\IEEEauthorblockN{Yi Zhong yz614}
+\IEEEauthorblockN{Qingqiao Hu qh41}
+\IEEEauthorblockN{Qi Dong qd33}
+\IEEEauthorblockA{Computer Science Dep., Rutgers University\\ Piscataway, NJ, USA\\
+Email: yz614@scarletmail.rutgers.edu qh41@scarletmail.rutgers.edu
+qd33@scarletmail.rutgers.edu}
+%\and
+%\IEEEauthorblockN{Alan Turing}
+%\IEEEauthorblockA{Rutgers University\\
+% Piscataway, NJ, USA\\
+% Email: alan1936@cs.rutgers.edu}
+%\and
+%%\IEEEauthorblockN{Third group member}
+%\IEEEauthorblockA{Rutgers University\\
+%\Piscataway, NJ, USA\\
+%Email: Third_group_member@scarletmail.rutgers.edu}
+}
+
+\maketitle
+\begin{abstract}
+\textnormal{
+Our project aims at building a house recommendation system so that users can receive feedback on house's value and suggestion selling price. The data are received from the website, and the predictions are based on regression unit, which provides data analysis process by converting all the attributions to a new variable. 
+}
+\end{abstract}
+%\onecolumn \maketitle \normalsize \vfill
+
+\IEEEpeerreviewmaketitle
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Project Description}\label{sec:1. Project Description}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\textnormal{
+Our project aims at construct a visual personalized recommendation system which can be used by different types of users in renting-related activities: house buyers, leasing agencies, and landlords. This system allows buyers to find a satisfactory house by evaluating the options, based on personal preferences that depend on both intrinsic attributes of the houses and their geographic relations to other places of interest. It also allows landlords to see the preferences and distributions of potential buyers so that they can adjust the pricing and improve the conditions of their houses to attract buyers more profitably. The main obstacles are automatically gathering the heterogeneous data related to each housing option, and allowing the user to adjust evaluation rules conveniently. We plan to mimic the real world thinking processes of the above-mentioned users and handle the problem step by step.
+}
+
+The project has four stages: Gathering, Design, Infrastructure Implementation, and User Interface.
+
+%\subsection{Stage1 - The Requirement Gathering Stage. } \label{sec:1	Requirement Gathering Stage. } 
+%\input{Stage1.tex}
+\subsection{Stage1 - The Requirement Gathering Stage. }\label{sec:1 Requirement Gathering Stage. }
+%%%%%%%
+\input{Stage1.tex}
+
+\subsection{Stage2 - The Design Stage. }\label{sec: 2:The Design Stage.}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{Stage2.tex}
+
+\subsection{Stage3 - The Implementation Stage. }\label{sec: 3 The Implementation Stage.}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{Stage3.tex}
+
+\subsection{Stage4 -	User Interface. }\label{sec: 4. User Interface.}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{Stage4.tex}
+
+\section{Project Highlights.}\label{sec:7. Project Highlights.}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{Highlights.tex}
+
+
+\bibliographystyle{IEEEtran}
+%\bibliography{IEEEabrv,bib_queyroi_abello2013}
+%\bibliography{bib_queyroi_abello2013}
+
+\end{document}
+
+

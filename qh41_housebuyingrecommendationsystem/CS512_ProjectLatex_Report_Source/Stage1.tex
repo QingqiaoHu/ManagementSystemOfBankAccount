@@ -1,0 +1,122 @@
+\textnormal{
+A visual interface, such as a web page with a dynamic map and various options, that allows potential home seekers to filter known for-sale houses by their personal preferences; they can set the preferences on the map (for example, places or types of places that they want to be close to or far from) and on the tags and attributes of each house(such as areas, number of bedrooms, number of bathrooms). Landlords can use the same system to query the statistics of house seekers that are interested in their houses, and see if their preferences are satisfied by the house, and if not, figure out how to improve it to attract buyers.
+} 
+
+
+
+
+\begin{itemize} 
+\item{The general system description: } 
+	\item{
+Our system is very deliverable because our interface would be very simple to use. Users only need to input their requirements as some instructions on the interface.
+Our system aims at construct a visual personalized recommendation system which can be used by different types of users in buying-related activities: House seeker, leasing agencies, and landlords. This system allows buyers to find a satisfactory house by evaluating the options, based on personal preferences that depend on both intrinsic attributes of the houses and their geographic relations to other places of interest. It also allows landlords to see the preferences and distributions of potential buyers so that they can adjust the pricing and improve the conditions of their houses to attract buyers more profitably. The main obstacles are automatically gathering the heterogeneous data related to each housing option, and allowing the user to adjust evaluation rules conveniently. We plan to mimic the real world thinking processes of the above-mentioned users and handle the problem step by step.}
+\item{The three types of users (grouped by their data access/update rights): }
+	\item{
+User 1. House seekers: they want to rent a house or room in a certain area, satisfying some geographic preferences like being close to their workplace or any park, as well as functional preferences like having a number of bedrooms and garages. These preferences are personal and can not necessarily be inferred automatically, so user input is necessary.}
+	\item{
+User 2. Landlords: they have houses or rooms to sale, and want to find out how to get the most profit, so they need to find out about the preferences of potential buyers; some of these preferences cannot be satisfied by changing the house itself (like location and number of rooms in most cases) but others like furniture and pricing can be adjusted for a better profit.}
+	\item{
+User 3. Leasing agencies: they have more houses than typical landlords so can benefit more from knowing a wide range of renter preferences and improve their conditions accordingly.}
+
+\item{The user's interaction modes: }
+User 1: Use keyboard and mouse to input requirements, and system feeds back houses'
+Informations according to the requirements.
+\item{The real world scenarios: }
+
+	\begin{itemize} 
+	\item{Scenario1 description: }
+	Buy a non-commercial house.
+	\item{System Data Input for Scenario1: }
+     Price, location, room area, number of bedrooms, number of bathrooms, parking lot size, and so on.
+	\item{Input Data Types for Scenario1: }
+	A list of the values and choices above.
+	\item{System Data Output for Scenario1: }
+     A list of rooms and their informations that accord with the requirements of users' input. 
+	\item{Output Data Types for Scenario1: }
+	A table of different attributes of rooms.
+	\end{itemize}
+	\begin{itemize} 
+	\item{Scenario2 description: }
+	Buy a commercial house.
+	\item{System Data Input for Scenario2: }
+	Price, location, room area, number of bedrooms, number of bathrooms, parking lot size, and so on.
+	\item{Input Data Types for Scenario2: }
+	A table of the values or choices above.
+	\item{System Data Output for Scenario2: }
+	A list of s that accord with the requirements of users' input.
+	\item{Output Data Types for Scenario2: }
+	A table of different attributes of houses.
+	\end{itemize}
+	\item{The user's interaction modes: }
+User 2. Landlords: Use keyboard and mouse to input their house's information, system feeds back a list of houses' informations that similar with the informations of user's input and suggested prices of the house according to our collected data and informations.
+\item{The real world scenarios: }
+	\begin{itemize}
+	\item{Scenario1 description: }
+	Sale a non-commercial house.
+	\item{System Data Input for Scenario1: }
+	Price, location, room area, number of bedrooms, number of bathrooms, parking lot size, and so on.
+	\item{Input Data Types for Scenario1: }
+	A table of the values or choices  
+	\item{System Data Output for Scenario1: }
+
+	A list of houses' informations that similar with the informations of user's input, and suggestions of the room price.
+	\item{Output Data Types for Scenario1: }
+
+	A table of different attributes of rooms.
+
+	\end{itemize}
+
+	\begin{itemize}
+
+	\item{Scenario2 description: }
+	Sale a commercial house.
+	\item{System Data Input for Scenario2: }
+
+	Price, location, room area, number of bedrooms, number of bathrooms, parking lot size, and so on.
+	\item{Input Data Types for Scenario2: }
+	A table of the values or choices  
+	\item{System Data Output for Scenario2: }
+	A list of houses' informations that similar with the informations of user's input, and suggestions of the house price.
+	\item{Output Data Types for Scenario2: }
+	A table of different attributes of houses and texts.
+
+	\end{itemize}
+
+User 3. Leasing agencies:Use keyboard and mouse to input requirements( these requirements usually much less than User's). After analyse our collected data according to the requirements, system provide different suggestions and recommendations to help users gain more profit.
+\item{The real world scenarios: }
+	\begin{itemize}
+	\item{Scenario1 description: }
+	Find rooms' informations
+	\item{System Data Input for Scenario1: }
+	Location, room size, room numbers.
+	\item{Input Data Types for Scenario1: }
+	A list of the values and choices  above
+	\item{System Data Output for Scenario1: }
+
+	A list of rooms and their informations that accord with the requirements of users' input and suggestions about how to gain more agency fee. 
+	\item{Output Data Types for Scenario1: }
+	A table of different attributes of rooms and texts.
+	
+	\end{itemize}
+	\begin{itemize}
+	
+\item{Scenario2 description: }
+	Find houses' informations
+	\item{System Data Input for Scenario2: }
+	Location, house type, room numbers, garage numbers.
+\item{Input Data Types for Scenario2: }
+	A table of the values or choices  above
+	\item{System Data Output for Scenario2: }A list of houses and their informations that accord with the requirements of users' input and suggestions about how to gain more agency fee. 
+	\item{Output Data Types for Scenario2: }
+	A table of different attributes of houses and texts.
+
+
+
+\item{Project Time line and Divison of Labor.}
+
+Timeline: 
+4/1, Finish Stage 2.	4/15 Finish Stage 3.	5/1 Finish the project and report
+Yi Zhong: algorithm design, documentation, evaluation.  Qi Dong: interface implementation.  Qingqiao Hu: project report, testing and power point presentation.	
+
+\end{itemize}
+}
